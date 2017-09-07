@@ -1,4 +1,4 @@
-ompute whether two intervals intersect.
+#compute whether two intervals intersect.
 
 ###################################################
 # Interval intersection formula

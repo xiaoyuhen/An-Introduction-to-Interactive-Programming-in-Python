@@ -1,4 +1,4 @@
-ompute a (simplified) Pig Latin version of a word.
+#Compute a (simplified) Pig Latin version of a word.
 
 ###################################################
 # Pig Latin formula

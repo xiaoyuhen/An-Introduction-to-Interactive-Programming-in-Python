@@ -1,4 +1,4 @@
-ock-paper-scissors-lizard-Spock template
+#Rock-paper-scissors-lizard-Spock template
 
 
 # The key idea of this program is to equate the strings

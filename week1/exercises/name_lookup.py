@@ -1,4 +1,4 @@
-ompute instructor's last name, given the first name.
+#Compute instructor's last name, given the first name.
 
 ###################################################
 # Name lookup formula

@@ -1,4 +1,4 @@
-ompute the smaller root of a quadratic equation.
+#Compute the smaller root of a quadratic equation.
 
 ###################################################
 # Smaller quadratic root formula

@@ -1,5 +1,7 @@
-![ROCK-PAPER-SCISSORS-SPOCK-LIZARD](http://www.samkass.com/theories/RPSSL.gif)
+![ROCK-PAPER-SCISSORS-SPOCK-LIZARD](http://www.samkass.com/theories/RPSSL.gif
+
 ROCK PAPER SCISSORS SPOCK LIZARD是一种加强版的石头剪刀布游戏。具体规则如上，目前写的算法为把两次出拳转化为0-4的数字
+
 * 0 -- rock
 * 1 -- spock
 * 2 -- paper

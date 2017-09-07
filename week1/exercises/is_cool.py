@@ -1,4 +1,4 @@
-ompute whether a person is cool.
+#Compute whether a person is cool.
 
 ###################################################
 # Is cool formula

@@ -1,4 +1,4 @@
-ompute whether the given year is a leap year.
+#Compute whether the given year is a leap year.
 
 ###################################################
 # Is leapyear formula

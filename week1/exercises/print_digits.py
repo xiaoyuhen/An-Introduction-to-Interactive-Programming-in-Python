@@ -1,4 +1,4 @@
-ompute and print tens and ones digit of an integer in [0,100).
+#Compute and print tens and ones digit of an integer in [0,100).
 
 ###################################################
 # Digits function

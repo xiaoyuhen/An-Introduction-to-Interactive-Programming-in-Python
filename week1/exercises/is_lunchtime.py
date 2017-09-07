@@ -1,4 +1,4 @@
-ompute whether the given time is lunchtime.
+#compute whether the given time is lunchtime.
 
 ###################################################
 # Is lunchtime formula

@@ -1,4 +1,4 @@
-ompute the statement about a person's name and age, given the person's name and age.
+#Compute the statement about a person's name and age, given the person's name and age.
 
 ###################################################
 # Name and age formula
