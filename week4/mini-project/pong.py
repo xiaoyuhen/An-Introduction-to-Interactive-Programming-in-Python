@@ -128,10 +128,13 @@ def keyup(key):
     elif key == simplegui.KEY_MAP['down']:
         paddle2_vel = 0
 
+def button_handler():
+    new_game()
 
 # create frame
 frame = simplegui.create_frame("Pong", WIDTH, HEIGHT)
 frame.set_draw_handler(draw)
+frame_add_button('new game' button_handler)
 frame.set_keydown_handler(keydown)
 frame.set_keyup_handler(keyup)
 
